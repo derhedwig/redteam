@@ -1,0 +1,1 @@
+[System.Windows.Forms.MessageBox]::Show("Du wurdest gehackt$([System.Environment]::NewLine)Diese Datei wurde aus dem Internet runter geladen und dann ausgeführt.","Du wurdest gehackt",0)
